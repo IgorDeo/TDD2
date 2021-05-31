@@ -1,0 +1,20 @@
+{
+  "name": "tdd2",
+  "version": "1.0.0",
+  "description": "TDD 2",
+  "main": "ApiCrypto.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Igor Deo",
+  "license": "ISC",
+  "devDependencies": {
+    "axios": "^0.21.1",
+    "chai": "^4.3.4",
+    "mocha": "^8.4.0",
+    "nock": "^13.0.11"
+  }
+}
